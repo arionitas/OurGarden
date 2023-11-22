@@ -55,6 +55,9 @@ https://arionitas.itch.io/
 
 ## Usage 
 
+![Screenshot (1277)](https://github.com/arionitas/OurGarden/assets/60946518/fb717962-d51a-4102-9d60-38510669f548)
+
+![Screenshot (1276)](https://github.com/arionitas/OurGarden/assets/60946518/bb33d25a-7803-4cf9-a533-37227a4293c7)
 
 
 
